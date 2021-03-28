@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "author": "cinkagan | S. Kağan Cin cin_kagan@hotmail.com",
   "license": "MIT",
-  "description": "",
+  "description": "An image cropper for Ant Design Upload",
   "homepage": "https://github.com/cinkagan/antd-img-crop-custom",
   "repository": "github:cinkagan/antd-img-crop-custom",
   "bugs": "https://github.com/cinkagan/antd-img-crop-custom/issues",
